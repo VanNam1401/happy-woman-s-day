@@ -1,5 +1,5 @@
 var to = 'Friend!';
-var gift_url = 'https://www.facebook.com/profile.php?id=100057140601868';
+var gift_url = 'https://www.facebook.com/ly.xinh.14407';
 var gift_image_url = 'image.png';
 
 
